@@ -1,0 +1,19 @@
+{
+    "users": {
+        "uid1": {
+            "name": "Mock Name 1",
+            "age": 21,
+            "country": "FR"
+        },
+        "uid2": {
+            "name": "Mock Name 2",
+            "age": 18.5,
+            "country": "UK"
+        },
+        "uid3": {
+            "name": "Mock Name 3",
+            "age": 23,
+            "country": "PT"
+        }
+    }
+}
